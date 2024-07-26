@@ -57,7 +57,7 @@ global.SESSION_ID =
 
 
   
-  "Your session ID" //Make sure session id starts with Byte;;;
+  //Make sure session id starts with Byte;;;
 
 
 
